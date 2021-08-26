@@ -1,4 +1,5 @@
 # Rashmi's First CS193 Homework
+hi
 
 Favorite things!
 - the TAs
